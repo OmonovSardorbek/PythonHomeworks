@@ -1,0 +1,13 @@
+Word Count Report
+Total Words: 169
+Top 5 Words:
+will - 3
+into - 3
+here - 3
+why - 3
+on - 2
+which - 2
+you - 2
+more - 2
+up - 2
+than - 2
